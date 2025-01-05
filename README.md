@@ -1,1 +1,1 @@
-# AI_course_res
+# Gnerative AI for NodeJs OpenAI, LangChain - TypeScript
